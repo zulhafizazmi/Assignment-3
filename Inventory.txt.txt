@@ -1,0 +1,6 @@
+CATEGORY  BRAND  PRICE  QUANTITY  SUITABLE FOR  
+	
+Soap  Lifebuoy  14.99  1  Anyone  
+	
+Syampoo  Sunsilk  9.90  1  Women  
+	
